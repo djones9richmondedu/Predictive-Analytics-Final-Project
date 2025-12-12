@@ -1,5 +1,7 @@
 # Final-Project
 
+[Video Presentation](https://drive.google.com/file/d/15QPog082WBDzLuHpVCpcdzYC4iye9Ows/view?usp=sharing)
+
 For the Final Project, I decided to build a model that can predict the type of power plant given a certain geography.
 
 Some initial exploration.
